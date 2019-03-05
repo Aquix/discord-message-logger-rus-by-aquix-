@@ -10,3 +10,5 @@ Plugin for Discord on Russian Language, v.1.14.13. Record all sent messages, edi
 - Activate Plugin in settings.
 
 P.S. There are some errors in the translation that I will correct later.
+
+# You can ask me to translate the plugins: https://vk.com/realrazor or Razor-#3866
