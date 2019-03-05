@@ -1,0 +1,47 @@
+{
+    "settings": {
+        "displayUpdateNotes": true,
+        "ignoreMutedGuilds": true,
+        "ignoreMutedChannels": true,
+        "ignoreBots": true,
+        "ignoreSelf": true,
+        "cap": 1000,
+        "savedCap": 100,
+        "reverseOrder": false,
+        "type": "all",
+        "list": [],
+        "toastToggles": {
+            "sent": false,
+            "edited": true,
+            "deleted": true
+        },
+        "desktopToggles": {
+            "sent": false,
+            "edited": false,
+            "deleted": false
+        },
+        "disableKeybind": false,
+        "clearButtonOnTop": false,
+        "cacheAllImages": true,
+        "openLogKeybind": {
+            "primaryKey": "KeyM",
+            "modifiers": [
+                "ControlLeft"
+            ]
+        },
+        "openLogFilteredKeybind": {
+            "primaryKey": "KeyM",
+            "modifiers": [
+                "ControlLeft",
+                "AltLeft"
+            ]
+        },
+        "renderCap": 15,
+        "displayDates": true,
+        "displayInChat": true,
+        "showDeletedCount": true,
+        "showEditedCount": true,
+        "alwaysLogSelected": false,
+        "alwaysLogDM": true
+    }
+}
