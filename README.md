@@ -1,6 +1,5 @@
 # discord-message-logger-rus-by-razor-
-Plugin for Discord on Russian Language, v.1.14.13
-*Record all sent messages, edit messages and delete messages on specified servers, all unchanged servers or all servers, as well as direct messages.*
+Plugin for Discord on Russian Language, v.1.14.13. Record all sent messages, edit messages and delete messages on specified servers, all unchanged servers or all servers, as well as direct messages.
 
 # How to install (ENG)
 
