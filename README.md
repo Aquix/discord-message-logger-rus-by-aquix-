@@ -1,4 +1,4 @@
-# discord-message-logger-rus-by-razor-
+# discord-message-logger-rus-by-aquix-
 Plugin for Discord on Russian Language, v.1.14.13. Record all sent messages, edit messages and delete messages on specified servers, all unchanged servers or all servers, as well as direct messages.
 
 # How to install (ENG)
@@ -11,4 +11,4 @@ Plugin for Discord on Russian Language, v.1.14.13. Record all sent messages, edi
 
 P.S. There are some errors in the translation that I will correct later.
 
-# You can ask me to translate the plugins: https://vk.com/realrazor or Razor-#3866
+# You can ask me to translate the plugins: https://vk.com/realrazor or Aquix-#3866
