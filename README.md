@@ -5,7 +5,7 @@ Plugin for Discord on Russian Language, v.1.14.13. Record all sent messages, edi
 
 - Install BetterDiscord (https://github.com/rauenzi/BetterDiscordApp/releases)
 - Open Plugins Folder ( BD > Plugins > Open Plugins Folder )
-- Open CMD / Powershell, use command 'git clone https://github.com/RSRazor/discord-message-logger-rus-by-razor-.git' or 'Download in Zip'.
+- Open CMD / Powershell, use command 'git clone https://github.com/Aquix/discord-message-logger-rus-by-aquix-.git' or 'Download in Zip'.
 - Install files in folder.
 - Activate Plugin in settings.
 
